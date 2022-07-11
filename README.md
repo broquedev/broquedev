@@ -2,7 +2,7 @@
 
 <h2>Dev Front-End em formação 🛠️.</h2>
 
-- 🌱 Atualmente cursando o último semestre Desenvolvimento de Sistemas para Internet (Senac - SP) 
+- 🌱 Atualmente cursando o último semestre de Desenvolvimento de Sistemas para Internet (Senac - SP) 
 - 🌱 Estudando Javascript 
 - 🔥 Trabalhando em projetos para o meu portfólio 
 #
