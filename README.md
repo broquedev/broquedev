@@ -9,7 +9,7 @@
 
 <div style="margin-top: 8px; display: inline-block">  
    <a href="mailto:broquedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-   <a href="https://linkedin.com/in/bruno-luiz-paguetti-roque-24a33122b"><img style="margin-left: 8px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    
+   <a href="https://linkedin.com/in/bruno-luiz-paguetti-roque-24a33122b"><img style="margin-left: 8px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
 <div style="margin-top: 4px; display: inline-block">   
