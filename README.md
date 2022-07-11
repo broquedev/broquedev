@@ -17,11 +17,17 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broquedev&theme=vue-dark">
 </div>
 
-<h2 style="margin-top: 4px">Tecnologias</h2>
-
+<h2 style="margin-top: 4px">Código</h2>
 <div style="margin-top: 4px; display: inline-block">    
     <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img width="40px" style="margin-right: 4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">    
-    <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">    
+</div>
+
+<h2 style="margin-top: 4px">Design</h2>
+<div style="margin-top: 4px; display: inline-block">
+    <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+    <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />          
 </div>
 
