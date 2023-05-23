@@ -8,9 +8,9 @@
 #
 
 <div style="margin-top: 8px; display: inline-block">  
-   <a href="mailto:broquedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-   <a href="https://linkedin.com/in/bruno-luiz-paguetti-roque-24a33122b"><img style="margin-left: 8px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-   <img style="margin-left: 8px; height: 28px" alt="Code Time" src="https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/1913?logoColor=white%26project=%26recentMS=0%26showProject=false" />
+   <a href="mailto:broquedev@gmail.com" alt="Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+   <a href="https://linkedin.com/in/bruno-luiz-paguetti-roque-24a33122b" alt="Linkedin" target="_blank"><img style="margin-left: 8px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://codepen.io/Broque" alt="Codepen" target="_blank"><img style="margin-left: 8px;" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </div>
 
 <div style="margin-top: 4px; display: inline-block">   
