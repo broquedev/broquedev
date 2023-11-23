@@ -1,35 +1,32 @@
-<h1 style="margin-bottom: 2px;">Hello 👋</h1>
+# <code>Olá 👋 Meu nome é Bruno Roque</code>
 
-<h2>Front-end developer in training 🛠️.</h2>
+Desenvolvedor Front-end
+-----------------------
+Bem-vindo(a) ao meu espaço criativo no mundo do código. Meu nome é Bruno Paguetti Roque, mas você pode me chamar de **Nobru!** Aqui, você vai encontrar uma mistura de código, lógica e criatividade. 
 
-- 🌱 Studying javascript;
-- 🌱 Studying React; 
-- 🔥🛠️ Working on projects for my portfolio.
-#
+Criatividade & Experimentação 
+-----------------------
+Na minha concepção, programar é mais do que escrever linhas de código, é dar vida a ideias. Por isso, minha busca é equilibrar designs elegantes com código eficiente, dessa forma, criando projetos impactantes e com apelo visual atrativo. Por isso tenho me dedicado nos estudos do JS 💖 e suas bibliotecas e frameworks, além de procurar entender melhor os conceitos de design aplicados no universo digital.         
 
-<div style="margin-top: 8px; display: inline-block">  
-   <a href="mailto:broquedev@gmail.com" alt="Gmail" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-   <a href="https://linkedin.com/in/bruno-luiz-paguetti-roque-24a33122b" alt="Linkedin" target="_blank"><img style="margin-left: 8px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://codepen.io/Broque" alt="Codepen" target="_blank"><img style="margin-left: 8px;" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-</div>
+### Mais sobre mim
 
-<div style="margin-top: 4px; display: inline-block">   
-    <img height="180em" style="margin-right: 4px;" src="https://github-readme-stats.vercel.app/api?username=broquedev&show_icons=true&theme=vue-dark">  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broquedev&theme=vue-dark">
-</div>
+* 🌍  Moro em São Paulo - Brasil
+* 📫  Fale comigo [broquedev@gmail.com](mailto:broquedev@gmail.com)
+* 🧠  Formado em Desenvolvimento de Sistemas para Internet pelo Senac
+* 🧠  Atualmente estudando Javascript e React
+* 🌱  Experimentando e testando codificação criativa
 
-<h2 style="margin-top: 4px">Code</h2>
-<div style="margin-top: 4px; display: inline-block">    
-    <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">   
-    <img width="40px" style="margin-right: 4px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">    
-    <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">    
-</div>
+### Habilidades 
 
-<h2 style="margin-top: 4px">Prototyping</h2>
-<div style="margin-top: 4px; display: inline-block">
-    <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-    <img width="40px" style="margin-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />          
-</div>
+<p align="left">
+<a style="margin-right: 2px" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a style="margin-right: 2px" href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a style="margin-right: 2px" href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a style="margin-right: 2px" href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a style="margin-right: 4px" href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a style="margin-right: 4px" href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a style="margin-right: 4px" href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a style="margin-right: 4px" href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+ 
+<h3 align="left">Minhas redes</h3>
+<p align="left">
+<a href="https://codepen.io/broquedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="broquedev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bpaguettiroque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpaguettiroque" height="30" width="40" /></a>
+<a href="https://dribbble.com/broquedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="broquedev" height="30" width="40" /></a>
+<a href="https://www.behance.net/broquedev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="broquedev" height="30" width="40" /></a>
+</p>
 
